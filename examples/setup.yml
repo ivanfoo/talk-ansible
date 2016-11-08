@@ -1,0 +1,6 @@
+---
+include fix_python.yml
+
+roles:
+  - users
+  - nginx
