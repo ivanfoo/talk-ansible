@@ -19,3 +19,10 @@ No olvides configurarlo por el puerto correspondiente.
 
 **Se incluye una propuesta de layout con algunas claves en examples/**
 
+# Bonus
+
+Configurar nginx como un proxy a otro site, usando un endpoint diferente a /
+
+# Bonus 2
+
+Configurar SSL en el proxy anterior
